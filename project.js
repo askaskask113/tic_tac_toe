@@ -52,3 +52,4 @@ function resetGame() {
 
 // Initialize game
 resetGame();
+//completed
